@@ -88,5 +88,3 @@ def state_coffee_machine_end(water, milk, coffee_beans, disposable_cups, cash):
 choose_action(state_coffee_machine_start())
 
 
-
-
